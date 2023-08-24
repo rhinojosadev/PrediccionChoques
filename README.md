@@ -1,6 +1,6 @@
 # PrediccionChoques
 
-El objetivo de este notebook fue el predecir el tipo de choqu que ocurriria teniendo como datos de entrada:
+El objetivo de este notebook fue el predecir el tipo de choque que ocurriria en la localidad de Monterrey, Nuevo Leon, Mexico teniendo como datos de entrada:
 
 La hora, dia y el nombre de la avenida. 
 
